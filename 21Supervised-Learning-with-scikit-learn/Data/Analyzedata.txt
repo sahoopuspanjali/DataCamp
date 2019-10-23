@@ -1,0 +1,2 @@
+1.https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee/
+2.https://github.com/leozqin/wine-quality-classifier/blob/master/wine-quality-classifier.ipynb
